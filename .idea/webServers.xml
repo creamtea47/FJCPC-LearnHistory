@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="959c6177-9de3-4703-bc9b-bd58f0eae541" name="www.thatgamecompany.cn">
+        <fileTransfer rootFolder="/data/wwwroot/www.thatgamecompony.cn" accessType="SFTP" host="121.5.152.93" port="22" sshConfigId="ed94a2ed-8073-4f86-aa3d-684e06e08804" sshConfig="root@121.5.152.93:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
